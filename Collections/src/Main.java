@@ -63,6 +63,7 @@ public class Main {
 		happy1.put("xyz", "pass256");
 		happy1.put("car", "pass567");
 		happy1.put("new", "change");
+		happy1.put("new", "feature"); 
 		
 		System.out.println(happy1.get("abc"));
 		System.out.println(happy1.containsValue("pass256"));
